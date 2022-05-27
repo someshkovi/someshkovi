@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @someshkovi
-- 🌱 I’m currently learning golang and kubernetes
-- 💞️ I’m looking to collaborate on cool projects on python or golang
+- 🌱 Python developer
+- 💞️ Looking to collaborate on cool projects
 
 <!---
 - 📫 How to reach me ...
